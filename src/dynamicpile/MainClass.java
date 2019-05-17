@@ -9,6 +9,8 @@ public class MainClass {
         System.out.println(pile.size());
         pile.remove();
         System.out.println(pile.size());
+        pile.remove();
+        System.out.println(pile.size());
     }
     
 }
